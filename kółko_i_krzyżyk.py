@@ -1,4 +1,4 @@
-pole = {'top-l':' ','top-m':' ','top-r':' ',        #Kod do poprawy
+pole = {'top-l':' ','top-m':' ','top-r':' ',        #Kod do poprawy :)
         'mid-l':' ','mid-m':' ','mid-r':' ',
         'low-l':' ','low-m':' ','low-r':' '}
 
